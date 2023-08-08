@@ -1,0 +1,77 @@
+2023-03-06 19:08:38,733 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-06 19:09:14,401 [Worker-6: Creating project "MyMavenAPIProject"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MyMavenAPIProject:MyMavenAPIProject:0.0.1-SNAPSHOT @ C:\Users\rahul\Desktop\API Programs\MyMavenAPIProject\pom.xml.
+2023-03-06 19:09:14,635 [Worker-6: Creating project "MyMavenAPIProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenAPIProject/src/main/java
+2023-03-06 19:09:14,636 [Worker-6: Creating project "MyMavenAPIProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MyMavenAPIProject/src/main/resources
+2023-03-06 19:09:14,639 [Worker-6: Creating project "MyMavenAPIProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenAPIProject/src/test/java
+2023-03-06 19:09:14,640 [Worker-6: Creating project "MyMavenAPIProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MyMavenAPIProject/src/test/resources
+2023-03-06 19:09:15,305 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 19:09:15,323 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 19:09:15,326 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 19:09:15,327 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 19:10:57,825 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MyMavenAPIProject:MyMavenAPIProject:0.0.1-SNAPSHOT @ C:\Users\rahul\Desktop\API Programs\MyMavenAPIProject\pom.xml.
+2023-03-06 19:10:58,316 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 19:10:58,316 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 19:10:58,322 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 19:10:58,322 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:10:40,520 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:10:40,521 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:10:40,522 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:10:40,525 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:10:52,339 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:10:52,340 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:10:52,341 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:10:52,342 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:12:15,509 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:12:15,509 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:12:15,513 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:12:15,514 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:13:22,665 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:13:22,666 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:13:22,667 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:13:22,668 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:15:11,640 [Worker-20: Launching LeapYear] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:15:11,641 [Worker-20: Launching LeapYear] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:15:11,642 [Worker-20: Launching LeapYear] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:15:11,643 [Worker-20: Launching LeapYear] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:39:26,191 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-06 20:45:28,286 [Worker-21: Creating project "myAPIProject"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: myAPIProject:myAPIProject:0.0.1-SNAPSHOT @ C:\Users\rahul\Desktop\API Programs\myAPIProject\pom.xml.
+2023-03-06 20:45:28,469 [Worker-21: Creating project "myAPIProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myAPIProject/src/main/java
+2023-03-06 20:45:28,470 [Worker-21: Creating project "myAPIProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /myAPIProject/src/main/resources
+2023-03-06 20:45:28,471 [Worker-21: Creating project "myAPIProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myAPIProject/src/test/java
+2023-03-06 20:45:28,471 [Worker-21: Creating project "myAPIProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /myAPIProject/src/test/resources
+2023-03-06 20:45:28,873 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:45:28,876 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:45:28,879 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:45:28,881 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:49:01,414 [Worker-7: Launching Executing clean in C__Users_rahul_Desktop_API Programs_myAPIProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\rahul\Desktop\API Programs\myAPIProject
+2023-03-06 20:49:01,415 [Worker-7: Launching Executing clean in C__Users_rahul_Desktop_API Programs_myAPIProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2023-03-06 20:49:01,415 [Worker-7: Launching Executing clean in C__Users_rahul_Desktop_API Programs_myAPIProject] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-03-06 20:49:04,149 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:49:04,151 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:49:04,153 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:49:04,154 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:49:19,568 [Worker-23: Launching Executing clean in C__Users_rahul_Desktop_API Programs_myAPIProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\rahul\Desktop\API Programs\myAPIProject
+2023-03-06 20:49:19,568 [Worker-23: Launching Executing clean in C__Users_rahul_Desktop_API Programs_myAPIProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2023-03-06 20:49:19,569 [Worker-23: Launching Executing clean in C__Users_rahul_Desktop_API Programs_myAPIProject] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-03-06 20:49:22,048 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:49:22,052 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:49:22,055 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-06 20:49:22,057 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-06 20:49:25,977 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-03-08 07:17:54,664 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: myAPIProject:myAPIProject:0.0.1-SNAPSHOT @ C:\Users\rahul\Desktop\API Programs\myAPIProject\pom.xml.
+2023-03-08 07:17:54,867 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-08 07:17:54,872 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-08 07:17:54,875 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-08 07:17:54,876 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-08 07:17:57,572 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.7.1/testng-7.7.1-sources.jar
+2023-03-08 07:17:59,017 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.7.1/testng-7.7.1-sources.jar
+2023-03-08 07:17:59,159 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.testng:testng:7.7.1
+2023-03-08 07:18:00,275 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.6.1/jquery-3.6.1-sources.jar
+2023-03-08 07:18:00,835 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.6.1/jquery-3.6.1-sources.jar
+2023-03-08 07:18:00,903 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:jquery:3.6.1
+2023-03-08 07:18:01,086 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-08 07:18:01,087 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-08 07:18:01,089 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-08 07:18:01,090 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-08 07:18:14,831 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: myAPIProject:myAPIProject:0.0.1-SNAPSHOT @ C:\Users\rahul\Desktop\API Programs\myAPIProject\pom.xml.
+2023-03-08 07:18:43,021 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
